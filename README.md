@@ -2,7 +2,7 @@
 
 This example shows how to deploy Django on Vercel.
 
-## Django Deployment on vercel
+## Django Deployment on Vercel
 
 ### STEP 1
 Configure our app to be included in `INSTALLED_APPS` in `dev/settings.py`:
@@ -64,7 +64,7 @@ add vercel.json, add wsgi path to builds `src`, and routes `dest`.
 ```
 
 ### STEP 6
-add .gitignore to every folder/file that's not in
+Your repo should look like this:
 ```
 your_repo/
 |── dev/
