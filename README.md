@@ -78,3 +78,4 @@ your_repo/
 - Sign up to vercel add your github account
 - import your github repo, and click deploy.
 - go to the project dashboard and click it's URL and you should see your web app running.
+- more info how : https://youtu.be/agUsHyEUwXw
